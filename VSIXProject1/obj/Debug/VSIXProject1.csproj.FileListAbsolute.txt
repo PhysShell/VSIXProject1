@@ -1,0 +1,11 @@
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\_EmptyResource.resources
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\VSIXProject1.csproj.GenerateResource.cache
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\VSIXProject1.csproj.CoreCompileInputs.cache
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\bin\Debug\VSIXProject1.vsix
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\bin\Debug\extension.vsixmanifest
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\VSIXProject1.dll
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\VSIXProject1.pdb
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\extension.vsixmanifest
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\files.json
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\createTemplateManifests.cache
+C:\Users\f.shelipov\source\repos\VSIXProject1\VSIXProject1\obj\Debug\VSIXProject1.csprojAssemblyReference.cache
